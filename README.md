@@ -33,22 +33,21 @@ To download this repository and it's contents:
 ### 3. How to Navigate
 Folders are ordered from short-term work, to long-term and archived work.
 
-You may find anything of the following here:
+You may find references to anything of the following here:
 - Archives
 - Articles
 - Audio
 - Blogs
 - Events
 - File shares
-- Instagram
+- Flyers
 - Media
 - News
 - Photos
-- Public Persons of Interest (not private persons)
 - Projects
-- Video
+- Social media
+- Videos
 - Websites
-- YouTube Channels
 
 ### 4. Disclaimer
 As of writing (July 11, 2025), this project is **on-going.** This project has
